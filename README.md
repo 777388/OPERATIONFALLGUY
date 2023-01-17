@@ -1,6 +1,8 @@
 # OPERATIONFALLGUY
 In case of Arrest, supply the officer with an email address for contact, and when an email is received a program is run, and a post to a website is made on your behalf
 
+!!!BE SURE TO LET THIS RUN ON STARTUP!!!
+
 I suggest leaving this on a raspberry pi or a small server hidden in a wall, that has a on/off cycle timer to keep it from having issues
 
 Link this to a Telephony API and save the number, have the telephony API send an email to your email with the Message "Sally" in the subject to activate the program
