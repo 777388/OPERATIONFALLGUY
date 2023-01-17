@@ -9,5 +9,5 @@ Link this to a Telephony API and save the number, have the telephony API send an
 
 I also suggest using selenium to record your typical attack methodology through a a site, and save it as a program to be run upon this programs activation
 
-This will make you look like the fallguy in an operation in the case of your arrest. Just have the police email the provided email on your behalf.
+This will make you look like the fallguy in an operation in the case of your arrest. Just have the police email the secret email on your behalf.
 Or make a phone call to the Telephony API you set up.
